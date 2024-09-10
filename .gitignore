@@ -32,7 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 
-### Log files ###
 
-*.log
-*.txt 
